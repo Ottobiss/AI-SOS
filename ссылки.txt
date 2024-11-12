@@ -1,0 +1,14 @@
+Врем ряды:
+https://www.kaggle.com/code/kashnitsky/topic-9-part-1-time-series-analysis-in-python
+
+Embeddings:
+https://dev.to/qdrant/fastembed-fast-and-lightweight-embedding-generation-for-text-4i6c
+
+CLIP:
+https://medium.com/thedeephub/how-to-install-and-use-clip-a-complete-step-by-step-guide-99371e841ee8
+https://habr.com/ru/articles/539312/
+https://habr.com/ru/companies/mws/articles/770202/
+
+Данные:
+https://habr.com/ru/companies/otus/articles/769242/
+https://github.com/Yorko/mlcourse.ai/tree/main/jupyter_russian
