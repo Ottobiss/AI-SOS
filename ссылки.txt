@@ -12,3 +12,7 @@ https://habr.com/ru/companies/mws/articles/770202/
 Данные:
 https://habr.com/ru/companies/otus/articles/769242/
 https://github.com/Yorko/mlcourse.ai/tree/main/jupyter_russian
+
+https://habr.com/ru/articles/567028/
+https://habr.com/ru/articles/653443/
+https://www.geeksforgeeks.org/how-to-generate-word-embedding-using-bert/
